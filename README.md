@@ -49,7 +49,7 @@ Built a full-stack web app for product and order management. Developed RESTful A
 
 - 📧 Email: KarthikRachcha2022@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/karthik-racha  
-- 💻 GitHub: github.com/KarthikRachcha
+- 
 
 ---
 
