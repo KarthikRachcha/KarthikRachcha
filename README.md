@@ -1,7 +1,7 @@
 # Karthik Rachcha - Software Developer & Data Engineer
 
 ## About Me
-Hi! I’m Karthik Rachcha — a passionate and curious **Software Developer and Data Engineer** with 4 years of professional experience, blending backend development, cloud tools, and data engineering to build scalable, real-world solutions. My journey started at **Cognizant**, and since then, I’ve worked on ETL pipelines, API integrations, automation tools, and full-stack applications.
+Hi! I’m Karthik Rachcha — a passionate and curious **Software Developer professional experience, blending backend development, cloud tools, and data engineering to build scalable, real-world solutions. My journey started at **Cognizant**, and since then, I’ve worked on ETL pipelines, API integrations, automation tools, and full-stack applications.
 
 Now, I’m expanding my expertise into the world of **AI**, **Large Language Models (LLMs)**, **Generative AI**, and **Prompt Engineering** — aiming to combine my strong foundation in data with cutting-edge machine intelligence to solve meaningful problems.
 
